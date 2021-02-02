@@ -20,14 +20,14 @@
           ></q-input>
           <q-input
             outlined
-            label="Age"
+            label="Email"
             v-model="$v.email.$model"
             :error="$v.email.$error"
             error-message="Invalid email address"
           ></q-input>
           <q-input
             outlined
-            label="Age"
+            label="Phone"
             mask="###-###-####"
             v-model="$v.phone.$model"
             :error="$v.phone.$error"
