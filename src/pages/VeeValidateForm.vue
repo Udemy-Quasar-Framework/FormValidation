@@ -26,7 +26,7 @@
             <ValidationProvider name="Email" rules="required|email" v-slot="v">
               <q-input
                 outlined
-                label="Age"
+                label="Email"
                 v-model="email"
                 :error="v.errors.length > 0"
                 error-message="Invalid email address"
@@ -35,7 +35,7 @@
             <ValidationProvider name="Phone" rules="required|phone" v-slot="v">
               <q-input
                 outlined
-                label="Age"
+                label="Phone"
                 mask="###-###-####"
                 v-model="phone"
                 :error="v.errors.length > 0"
