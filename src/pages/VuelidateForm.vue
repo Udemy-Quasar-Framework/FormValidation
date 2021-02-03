@@ -42,7 +42,7 @@
       </q-card-section>
 
       <q-card-section class="q-pt-none">
-        <p>Validating the form using Vuelidate library. </p>
+        <p>Validating forms using Vuelidate library. </p>
         <p>For more information visit:</p>
         <ul>
           <li>
@@ -67,6 +67,14 @@
               href="https://medium.com/quasar-framework/adding-validation-to-quasar-based-forms-5391cee48c20"
             >
               Blog page where shows how to setup the Vuelidate library
+            </a>
+          </li>
+          <li>
+            <a
+              target="_blank"
+              href="https://dev.to/marlonfsolis/validating-forms-in-quasar-framework-vuelidate-5efi"
+            >
+              Post - Validating forms in Quasar Framework - Vuelidate
             </a>
           </li>
         </ul>

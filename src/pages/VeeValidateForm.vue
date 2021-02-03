@@ -48,27 +48,19 @@
         </ValidationObserver>
       </q-card-section>
       <q-card-section>
-        <div class="text-h6">Form validation - Vuelidate</div>
+        <div class="text-h6">Form validation - Vee-Validate</div>
       </q-card-section>
 
       <q-card-section class="q-pt-none">
-        <p>Validating the form using Vuelidate library. </p>
+        <p>Validating forms using Vee-Validate library. </p>
         <p>For more information visit:</p>
         <ul>
           <li>
             <a
               target="_blank"
-              href="https://quasar.dev/vue-components/field#Validation"
+              href="https://vee-validate.logaretm.com/v4/"
             >
-              Quasar page
-            </a>
-          </li>
-          <li>
-            <a
-              target="_blank"
-              href="https://vuelidate.js.org/#sub-basic-form"
-            >
-              Vuelidate page
+              Vee-Validate page
             </a>
           </li>
           <li>
@@ -77,6 +69,14 @@
               href="https://medium.com/quasar-framework/adding-validation-to-quasar-based-forms-5391cee48c20"
             >
               Blog page where shows how to setup the Vuelidate library
+            </a>
+          </li>
+          <li>
+            <a
+              target="_blank"
+              href="https://dev.to/marlonfsolis/validating-forms-in-quasar-framework-vee-validate-4e7g"
+            >
+              Post - Validating forms in Quasar Framework - Vee-Validate
             </a>
           </li>
         </ul>
